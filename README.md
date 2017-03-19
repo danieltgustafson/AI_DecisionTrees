@@ -5,4 +5,9 @@ A more classical approach to a decision tree (compared to the Random Tree projec
 
 The split location optimization is done using simulating annealing (simulated internal method).
 
-There are multiple classes in the decision_trees.py.  
+There is also a RandomForest class that builds a RandomForest classifier from the individual decision trees.
+
+Also, in contrast to the RandomTree project, the RandomForest is intended for the traditional classification problems (as opposed to the RandomTree which could be used for either).
+
+
+
